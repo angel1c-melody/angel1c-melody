@@ -12,7 +12,7 @@
     </td>
   </tr>
 </table>
-<p align="right">
+<p align="center">
 <span style="white-space: nowrap;">
   <img src="tumblr_a43f5e45df7de19af1a934d6efd85830_898f2d23_400.webp" width="105"/>
   <img src="tumblr_2b4c7d7829eca1417ff3dccbea330483_c49a0509_250.webp" width="86"/>
