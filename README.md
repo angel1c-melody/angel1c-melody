@@ -1,9 +1,9 @@
 ##   ◜⑅  🎭  ωᥱℓᥴomᥱ, 𝖿oℓks! rᥱᥲᑯᥡ 𝖿or somᥱ gіggℓᥱs? (wip)   ◝
-<img src="Shadow_milk_gacha_animation.gif" width="500" align="left"/>
+<img src="tumblr_093e030215c15a229921c9f567cc86ce_6e7f64c6_400.webp" width="500" align="left"/>
 <img width="150" height="150" alt="image" align="center" src="https://github.com/user-attachments/assets/65f62952-85d7-4dc4-9c47-4674d6d748f7" />
 <img width="150" height="150" alt="image" align="center" src="https://github.com/user-attachments/assets/1a62a76d-1e4f-4208-9165-9c6aea7d30e8" />
 <div align="center">
-  ๑ 
+  ๑ ABT
 </div>
 <table align="center">
   <tr>
@@ -12,3 +12,4 @@
     </td>
   </tr>
 </table>
+
