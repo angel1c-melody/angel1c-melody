@@ -23,7 +23,7 @@
 </span>
 <img width="2048" height="74" alt="image" src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" />
 <img width="2000" height="160" alt="image" src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" />
-<p align="center"> shamilk div creds: https://www.tumblr.com/night-of-the-crumbled/806661943142367232/crk-soul-jam-dividers-i-decided-to-make?source=share </p>
-<p align="center"> basic line div creds: https://www.tumblr.com/uzmacchiato/798626627129114624/basic-line-dividers-7?source=share </p>
-<p align="center"> shamilk decor creds: https://www.tumblr.com/iveeaten3humanorganz/812733178709196800/shadow-milk-cookie-theme-decor?source=share </p>
+<p align="center"> shamilk div creds: @night-of-the-crumbled on tumblr </p>
+<p align="center"> basic line div creds: @uzmacchiato on tumblr </p>
+<p align="center"> shamilk decor creds: @iveeaten3humanorganz on tumblr </p>
 
