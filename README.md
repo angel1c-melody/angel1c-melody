@@ -12,11 +12,11 @@
     </td>
   </tr>
 </table>
-<p align="center">
+<p align="right">
 <span style="white-space: nowrap;">
   <img src="tumblr_a43f5e45df7de19af1a934d6efd85830_898f2d23_400.webp" width="105"/>
   <img src="tumblr_2b4c7d7829eca1417ff3dccbea330483_c49a0509_250.webp" width="86"/>
-  <img src="tumblr_76fbdee610595a88f5193e0a38d4be6d_b4f42c29_400.webp" width="118"/>
+  <img src="tumblr_76fbdee610595a88f5193e0a38d4be6d_b4f42c29_400.webp" width="105"/>
 </p>
 </span>
 
