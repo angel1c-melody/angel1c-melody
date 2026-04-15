@@ -21,6 +21,9 @@
   <img src="tumblr_76fbdee610595a88f5193e0a38d4be6d_b4f42c29_400.webp" width="105"/>
 </p>
 </span>
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=angel1c-melody&color=0d1117" alt="Profile views" />
+</div>
 <img width="2048" height="74" alt="image" src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" />
 <img width="2000" height="160" alt="image" src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" />
 <p align="center"> shamilk div creds: @night-of-the-crumbled on tumblr </p>
