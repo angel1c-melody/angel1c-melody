@@ -10,7 +10,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      Hello!! Feel free to c+h anytime ^_^ <br>IWC tho! (Unless we're friends that<br> talk frequently) Please DNC. <br><br>Layout ib: @COUNTRY-HUMANS
+      Hello!! Feel free to c+h anytime ^_^ <br>IWC tho! (Unless we're friends that<br> talk frequently) Please DNC, ask <br> for inspo. <br><br>Layout ib: @COUNTRY-HUMANS
     </td>
   </tr>
 </table>
