@@ -22,7 +22,8 @@
 </p>
 </span>
   <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=angel1c-melody&color=0d1117" alt="Profile views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/angel1c-melody?style=flat&label=Followers:&labelColor=42BDE3&color=<img width="736" height="414" alt="e1f505b13fac3ff17ba551885351dcad" src="https://github.com/user-attachments/assets/49b15bc2-6d17-40e3-aeda-762299bcf31d" />
+BFFCFF">
 </div>
 <img width="2048" height="74" alt="image" src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" />
 <img width="2000" height="160" alt="image" src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" />
