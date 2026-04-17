@@ -1,4 +1,5 @@
-##   ◜⑅  🎭  ωᥱℓᥴomᥱ, 𝖿oℓks! rᥱᥲᑯᥡ 𝖿or somᥱ gіggℓᥱs?   ◝
+<img width="823" height="297" alt="image" src="https://github.com/user-attachments/assets/ad1cb5dd-ed5d-4569-8f95-a8999ff8bf7e" />
+##   ◜⑅  🎭  AHH! The sweet, sweet scent of DECEIT!   ◝
 <img width="2000" height="160" alt="image" src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" />
 <img width="2048" height="74" alt="image" src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" />
 <img src="tumblr_093e030215c15a229921c9f567cc86ce_6e7f64c6_400.webp" width="500" align="left"/>
@@ -22,8 +23,9 @@
 </p>
 </span>
   <div align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/angel1c-melody?style=flat&label=Followers:&labelColor=42BDE3&color=<img width="736" height="414" alt="e1f505b13fac3ff17ba551885351dcad" src="https://github.com/user-attachments/assets/49b15bc2-6d17-40e3-aeda-762299bcf31d" />
-BFFCFF">
+  <!--followers and visits badges, wip<img width="823" height="297" alt="Cutscene_beast_episode07_018" src="https://github.com/user-attachments/assets/4836afb5-56ee-4425-b062-951b42827c29" />
+<img width="823" height="297" alt="Cutscene_beast_episode07_018" src="https://github.com/user-attachments/assets/468e96b1-c47f-4212-a19d-8c2a8f4fa386" />
+-->
 </div>
 <img width="2048" height="74" alt="image" src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" />
 <img width="2000" height="160" alt="image" src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" />
