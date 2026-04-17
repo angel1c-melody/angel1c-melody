@@ -1,5 +1,7 @@
 <img width="823" height="297" alt="image" src="https://github.com/user-attachments/assets/ad1cb5dd-ed5d-4569-8f95-a8999ff8bf7e" />
-##   ◜⑅  🎭  AHH! The sweet, sweet scent of DECEIT!   ◝
+<div align="center">
+## **◜⑅  🎭  AHH! The sweet, sweet scent of DECEIT!**   ◝
+</div>
 <img width="2000" height="160" alt="image" src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" />
 <img width="2048" height="74" alt="image" src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" />
 <img src="tumblr_093e030215c15a229921c9f567cc86ce_6e7f64c6_400.webp" width="500" align="left"/>
