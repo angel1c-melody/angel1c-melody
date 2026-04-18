@@ -87,6 +87,6 @@
     <img src="atgvea.gif" alt="credit">
   </a>
 </div>
-<p align="center">
-  <sub>(click the gifs above for credits)</sub>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=40&duration=1&pause=999999&color=C5F4FF&center=true&vCenter=true&repeat=false&size=13&lines=click+the+pixels+for+linked+credits+on+stuff+used+here" />
+</div>
