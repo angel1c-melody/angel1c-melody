@@ -29,11 +29,11 @@
   <img src="tumblr_76fbdee610595a88f5193e0a38d4be6d_b4f42c29_400.webp" width="105"/>
 </p>
 </span>
-  <div align="center">
-  <!--followers and visits badges, wip-->
-</div>
 <p align="center">
     <img src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" width="100%"/>
+  <a href="https://angel1cmelody.atabook.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=40&duration=1&pause=999999&color=C5F4FF&center=true&vCenter=true&repeat=false&width=520&height=110&lines=ATABOOK" />
+  </a>
     <img src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" width="100%"/>
 </p>
 <p align="center"> shamilk div creds: @night-of-the-crumbled on tumblr </p>
