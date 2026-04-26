@@ -18,9 +18,9 @@
 <table align="center">
   <tr>
     <td align="center">
-      $\color{#def5ff}{\normalsize{\texttt{hello (˶˃𐃷˂˶) !! feel free to c+h anytime!}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{hello (˶˃𐃷˂˶) !! feel free to cuds/hide anytime!}}}$ <br>
       <img src="atgvea.gif" /> <br>
-      $\color{#def5ff}{\normalsize{\texttt{ask perms to take inspo on my skins/layout,}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{ask to take inspo on my skins/layout,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{dnc please (╥﹏╥) !! iwc at all costs}}}$ <br>
     </td>
   </tr>
