@@ -44,6 +44,9 @@
       $\color{#9ce0ff}{\large{\texttt{✧ DNI ✧}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{basic dni criteria, femcels/incels}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{misogynists AND misandrists, people with a WPD account,}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{silentshadow/burningshadow (ONLY THE ROLEPLAYERS/RPS,}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{shippers int freely but please dont mention the ship around me or}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{try to get me to RP your ship.)}}}$ <br>
     </td>
   </tr>
 </table>
