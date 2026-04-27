@@ -23,6 +23,7 @@
       $\color{#def5ff}{\normalsize{\texttt{ask to take inspo on my skins/layout,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{dnc please (╥﹏╥) !! iwc at all costs}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{ask to match please (˶˃ᆺ˂˶)}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{im ok with rping ships ૮₍ ´ ꒳ `₎ა)}}}$ <br>
     </td>
   </tr>
 </table>
@@ -47,7 +48,7 @@
       $\color{#def5ff}{\normalsize{\texttt{misogynists AND misandrists, people with a WPD account,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{silentshadow/burningshadow (ONLY THE ROLEPLAYERS/RPS,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{shippers int freely but please dont try rping the ship with me.),}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{hazbin/helluva fans (no exceptions).}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{hazbin hotel/helluva boss fans (even if u "don't" support vivziepop)}}}$ <br>
     </td>
   </tr>
 </table>
@@ -57,7 +58,7 @@
       $\color{#9ce0ff}{\large{\texttt{✧ IWC ✧}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{hetalia/countryhuman fans, cutegore people, people}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{with touch discomfort/trigger, people over 18,}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{dark romance/yandere haters and}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{dark romance/yandere haters/people that don't enjoy it in general,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{people with dark humour (you can joke with me but dont go too far.)}}}$ <br>
       <p>
   <a href="https://angel1cmelody.atabook.org/">
