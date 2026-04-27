@@ -22,6 +22,7 @@
       <img src="atgvea.gif" /> <br>
       $\color{#def5ff}{\normalsize{\texttt{ask to take inspo on my skins/layout,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{dnc please (╥﹏╥) !! iwc at all costs}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{ask to match please (˶˃ᆺ˂˶)}}}$ <br>
     </td>
   </tr>
 </table>
@@ -45,8 +46,8 @@
       $\color{#def5ff}{\normalsize{\texttt{basic dni criteria, femcels/incels}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{misogynists AND misandrists, people with a WPD account,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{silentshadow/burningshadow (ONLY THE ROLEPLAYERS/RPS,}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{shippers int freely but please dont mention the ship around me or}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{try to get me to RP your ship.)}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{shippers int freely but please dont try rping the ship with me.),}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{hazbin/helluva fans (no exceptions).}}}$ <br>
     </td>
   </tr>
 </table>
