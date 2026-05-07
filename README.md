@@ -49,7 +49,7 @@
       $\color{#def5ff}{\normalsize{\texttt{silentshadow/burningshadow (ONLY THE ROLEPLAYERS/RPS,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{shippers int freely but please dont try rping the ship with me.),}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{hazbin hotel/helluva boss fans (even if u "don't" support vivziepop),}}}$<br> 
-      $\color{#def5ff}{\normalsize{\texttt{proshippers/shotacons/lolicons PLEASE block me.}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{proshippers PLEASE block me (unless you need genuine advice/help)}}}$ <br>
     </td>
   </tr>
 </table>
