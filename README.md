@@ -23,7 +23,7 @@
       $\color{#def5ff}{\normalsize{\texttt{ask to take inspo on my skins/layout,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{dnc pls (╥﹏╥) !! iwc at all costs}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{yttd fans PLS int if yall r still alive (╥﹏╥)}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{im NOT ok with rping ships ૮₍ ´ ꒳ `₎ა)}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{ships int idm ૮₍ ´ ꒳ `₎ა)}}}$ <br>
     </td>
   </tr>
 </table>
