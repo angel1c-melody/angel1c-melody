@@ -96,3 +96,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=40&duration=1&pause=999999&color=C5F4FF&center=true&vCenter=true&repeat=false&size=13&lines=click+the+pixels+for+linked+credits+on+stuff+used+here" />
 </div>
+<div align="center">
+<img width="500" alt="image" align="center" src ="https://github.com/user-attachments/assets/e4213bcd-cbe8-4386-b723-e5aec3447458" />
+
+$\color{#def5ff}{\normalsize{\texttt{ransara best yttd ship}}}$
+</div>
+
