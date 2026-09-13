@@ -21,9 +21,9 @@
       $\color{#def5ff}{\normalsize{\texttt{hello (˶˃𐃷˂˶) !! feel free to c+h anytime!}}}$ <br>
       <img src="atgvea.gif" /> <br>
       $\color{#def5ff}{\normalsize{\texttt{ask to take inspo on my skins/layout,}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{dnc please (╥﹏╥) !! iwc at all costs}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{ask to match please (˶˃ᆺ˂˶)}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{im ok with rping ships ૮₍ ´ ꒳ `₎ა)}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{dnc pls (╥﹏╥) !! iwc at all costs}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{yttd fans PLS int if yall r still alive (╥﹏╥)}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{im NOT ok with rping ships ૮₍ ´ ꒳ `₎ა)}}}$ <br>
     </td>
   </tr>
 </table>
@@ -44,10 +44,9 @@
   <tr>
     <td align="center">
       $\color{#9ce0ff}{\large{\texttt{✧ DNI ✧}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{basic dni criteria, femcels/incels}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{racists, ableists, anti theists, femcels/incels, fem/tomboy fetishizers,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{misogynists AND misandrists, people with a WPD account,}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{silentshadow/burningshadow (ONLY THE ROLEPLAYERS/RPS,}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{shippers int freely but please dont try rping the ship with me.),}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{people that have bandwagon effect, shamilk fan haters,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{hazbin hotel/helluva boss fans (even if u "don't" support vivziepop),}}}$<br> 
       $\color{#def5ff}{\normalsize{\texttt{proshippers PLEASE block me (unless you need genuine advice/help)}}}$ <br>
     </td>
