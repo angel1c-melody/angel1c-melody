@@ -39,7 +39,7 @@
   <img src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" width="100%"/>
   <img src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" width="100%"/>
 </p>
- <table align="love">
+ <table align="center">
   <tr>
     <td align="center">
       $\color{#9ce0ff}{\large{\texttt{✧ INFO ✧}}}$ <br>
@@ -52,12 +52,10 @@
       $\color{#def5ff}{\normalsize{\texttt{if we happen to share interests! i'd love to yap abt them}}}$ <br>
     </td>
   </tr>
-</table>
-<img width="362" height="363" alt="image" src="https://github.com/user-attachments/assets/c5cf0635-7896-4f76-a39f-64bf162e6b59" />
- <table align="right">
+ </table>
+<table align="center">
   <tr>
     <td align="center">
-      $\color{#9ce0ff}{\large{\texttt{✧ INFO ✧}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{i don't accept sudden friend reqs if we havent interacted}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{before ૮(◞ ‸ ◟ )ა dont be shy to interact please! i'd be}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{welcome to listening to u talk/talk with u (˶>⩊<˶) im}}}$ <br>
