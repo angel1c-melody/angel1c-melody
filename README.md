@@ -39,7 +39,7 @@
   <img src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" width="100%"/>
   <img src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" width="100%"/>
 </p>
- <table align="center">
+ <table align="left">
   <tr>
     <td align="center">
       $\color{#9ce0ff}{\large{\texttt{✧ INFO ✧}}}$ <br>
@@ -53,15 +53,17 @@
     </td>
   </tr>
  </table>
-<table align="center">
+<table align="right">
   <tr>
     <td align="center">
       $\color{#def5ff}{\normalsize{\texttt{i don't accept sudden friend reqs if we havent interacted}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{before ૮(◞ ‸ ◟ )ა dont be shy to interact please! i'd be}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{welcome to listening to u talk/talk with u (˶>⩊<˶) im}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{mainly interested in yttd and crk atm ⸜(｡˃ ᵕ ˂ )⸝♡}}}$<br> 
-      $\color{#def5ff}{\normalsize{\texttt{i love ransara (yttd) and please respect my boundaries!}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{that's all i have to say ૮₍ ´ ꒳ `₎ა}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{mainly interested in yttd and crk atm ⸜(｡˃ ⩊ ˂ )⸝♡}}}$<br> 
+      $\color{#def5ff}{\normalsize{\texttt{i love ransara (yttd)!!! please respect my boundaries!}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{i also do oshikatsu of smc (˶˃𐃷˂˶) also, my readme}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{may change over time! this is all i have to say for now}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{૮₍ ´ ꒳ `₎ა}}}$ <br>
     </td>
   </tr>
 </table>
