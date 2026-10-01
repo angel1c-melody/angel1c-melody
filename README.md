@@ -24,6 +24,11 @@
       $\color{#def5ff}{\normalsize{\texttt{dnc pls (╥﹏╥) !! iwc at all costs}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{yttd fans PLS int if yall r still alive (╥﹏╥)}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{ships int idm ૮₍ ´ ꒳ `₎ა)}}}$ <br>
+      <p>
+  <a href="https://angel1cmelody.atabook.org/">
+    <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=28&duration=1&pause=999999&color=75BFFF&center=true&vCenter=true&repeat=false&width=220&height=50&lines=ATABOOK" />
+  </a>
+</p>
     </td>
   </tr>
 </table>
@@ -93,11 +98,6 @@
       $\color{#def5ff}{\normalsize{\texttt{with touch discomfort/trigger, people over 18,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{dark romance/yandere haters/people that don't enjoy it in general,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{people with dark humour (you can joke with me but dont go too far.)}}}$ <br>
-      <p>
-  <a href="https://angel1cmelody.atabook.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=28&duration=1&pause=999999&color=75BFFF&center=true&vCenter=true&repeat=false&width=220&height=50&lines=ATABOOK" />
-  </a>
-</p>
     </td>
   </tr>
 </table>
