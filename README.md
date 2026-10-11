@@ -44,7 +44,7 @@
   <img src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" width="100%"/>
   <img src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" width="100%"/>
 </p>
-       <img src="tumblr_093e030215c15a229921c9f567cc86ce_6e7f64c6_400.webp" width="350" align="left"/>
+       <img src="tumblr_466084e296e367b858f9c8fee2b58995_387886e8_400.webp" width="350" align="left"/>
  <table align="center">
   <tr>
     <td align="center">
@@ -55,7 +55,8 @@
       $\color{#def5ff}{\normalsize{\texttt{asking unless i say otherwise! i am mostly offtab}}}$<br> 
       $\color{#def5ff}{\normalsize{\texttt{especially if im sitting still without saying anything,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{pls dont rush me or anything like that (╥﹏╥) do int}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{if we happen to share interests!}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{if we happen to share interests! i don't accept}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{sudden friend reqs if we havent int before ૮(◞ ‸ ◟ )ა}}}$ <br>
     </td>
   </tr>
  </table>
@@ -63,14 +64,13 @@
 <table align="center">
   <tr>
     <td align="center">
-      $\color{#def5ff}{\normalsize{\texttt{i don't accept sudden friend reqs if we havent interacted}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{before ૮(◞ ‸ ◟ )ა dont be shy to interact please! i'd be}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{dont be shy to interact first please! i'd be more than}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{welcome to listening to u talk/talk with u (˶>⩊<˶) im}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{mainly interested in yttd and crk atm ⸜(｡˃ ⩊ ˂ )⸝♡}}}$<br> 
-      $\color{#def5ff}{\normalsize{\texttt{i love ransara (yttd)!!! please respect my boundaries!}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{i also do oshikatsu of smc (˶˃𐃷˂˶) also, my readme}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{may change over time! this is all i have to say for now}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{૮₍ ´ ꒳ `₎ა}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{i love ransara (yttd) and i also like pmmm!!!}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{pls respect my boundaries! i also do oshikatsu of smc}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{(˶˃𐃷˂˶) also, my readme may change over time! this is}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{all i have to say for now ૮₍ ´ ꒳ `₎ა}}}$ <br>
     </td>
   </tr>
 </table>
