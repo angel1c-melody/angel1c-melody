@@ -21,7 +21,7 @@
       $\color{#def5ff}{\normalsize{\texttt{hello (˶˃𐃷˂˶) !! feel free to c+h anytime!}}}$ <br>
       <img src="atgvea.gif" /> <br>
       $\color{#def5ff}{\normalsize{\texttt{ask to take inspo on my skins/layout,}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{dnc pls (╥﹏╥) !! iwc at all costs}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{dnc pls (╥﹏╥) !! iwc if not close}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{yttd fans PLS int if yall r still alive (╥﹏╥)}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{ships/anyone in general int idm ૮₍ ´ ꒳ `₎ა)}}}$ <br>
       <p>
@@ -51,26 +51,28 @@
       $\color{#9ce0ff}{\large{\texttt{✧ BYI ✧}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{i have social anxiety disorder (SAD), pls iwc if we}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{havent met before and avoid awkward conversations like}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{asking too much about me in a single go (╥﹏╥) c*h w/o}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{asking unless i say otherwise! i am mostly offtab}}}$<br> 
-      $\color{#def5ff}{\normalsize{\texttt{especially if im sitting still without saying anything,}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{pls dont rush me or anything like that (╥﹏╥) do int}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{if we happen to share interests! i don't accept}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{asking too much about me in a single go (╥﹏╥) i am}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{mostly offtab especially if im sitting still}}}$<br> 
+      $\color{#def5ff}{\normalsize{\texttt{without saying anything, pls dont rush me ot}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{anything like that (╥﹏╥) do int if we happen}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{happen to share interests! i don't accept}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{sudden friend reqs if we havent int before ૮(◞ ‸ ◟ )ა}}}$ <br>
     </td>
   </tr>
  </table>
-       <img src="tumblr_093e030215c15a229921c9f567cc86ce_6e7f64c6_400.webp" width="350" align="right"/>
+       <img src="ee059de9de01928b9f87fe362beb7d1b4cf4969a.gif" width="350" align="right"/>
 <table align="center">
   <tr>
     <td align="center">
-      $\color{#def5ff}{\normalsize{\texttt{dont be shy to interact first please! i'd be more than}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{do not copy please and ask to take inspo from skins/readme}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{(╥﹏╥) dont be shy to interact first please! i'd be more than}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{welcome to listening to u talk/talk with u (˶>⩊<˶) im}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{mainly interested in yttd and crk atm ⸜(｡˃ ⩊ ˂ )⸝♡}}}$<br> 
-      $\color{#def5ff}{\normalsize{\texttt{i love ransara (yttd) and i also like pmmm!!!}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{pls respect my boundaries! i also do oshikatsu of smc}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{(˶˃𐃷˂˶) also, my readme may change over time! this is}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{all i have to say for now ૮₍ ´ ꒳ `₎ა}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{i love ransara (yttd) and i also like pmmm!! please}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{respect my boundaries! i also do oshikatsu of smc}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{(˶˃𐃷˂˶) also, my readme may change over time!}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{again, please ask to take inspo from skins/readme!}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{this is all i have to say for now ૮₍ ´ ꒳ `₎ა}}}$ <br>
     </td>
   </tr>
 </table>
