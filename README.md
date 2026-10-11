@@ -60,11 +60,6 @@
     </td>
   </tr>
  </table>
- <p align="center">
-   <img src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" width="100%"/>
-   <img src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" width="100%"/>
-   <img src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" width="100%"/>
- </p>
        <img src="ee059de9de01928b9f87fe362beb7d1b4cf4969a.gif" width="350" align="right"/>
 <table align="center">
   <tr>
