@@ -5,8 +5,8 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" width="100%"/>
     <div align="center">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=angel1c-melody.angel1c-melody&left_color=DeepSkyBlue&right_color=DodgerBlue&left_text=visitors:">
-        <img alt="GitHub followers" src="https://img.shields.io/github/followers/angel1c-melody?style=flat&label=followers:&labelColor=50BEF2&color=008CFF">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=angel1c-melody.angel1c-melody&left_color=DeepSkyBlue&right_color=DodgerBlue&left_text=Puppets!">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/angel1c-melody?style=flat&label=Minions!&labelColor=50BEF2&color=008CFF">
 </div>
     <img src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" width="100%"/>
 </p>
