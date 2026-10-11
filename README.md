@@ -23,7 +23,7 @@
       $\color{#def5ff}{\normalsize{\texttt{ask to take inspo on my skins/layout,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{dnc pls (╥﹏╥) !! iwc at all costs}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{yttd fans PLS int if yall r still alive (╥﹏╥)}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{ships int idm ૮₍ ´ ꒳ `₎ა)}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{ships/anyone in general int idm ૮₍ ´ ꒳ `₎ა)}}}$ <br>
       <p>
   <a href="https://angel1cmelody.atabook.org/">
     <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=28&duration=1&pause=999999&color=75BFFF&center=true&vCenter=true&repeat=false&width=220&height=50&lines=ATABOOK" />
@@ -44,21 +44,23 @@
   <img src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" width="100%"/>
   <img src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" width="100%"/>
 </p>
- <table align="left">
+       <img src="tumblr_093e030215c15a229921c9f567cc86ce_6e7f64c6_400.webp" width="350" align="left"/>
+ <table align="center">
   <tr>
     <td align="center">
-      $\color{#9ce0ff}{\large{\texttt{✧ INFO ✧}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{i have anxiety, please avoid sudden conversations like}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{asking stuff about me when we haven't interacted before,}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{it startles me a lot (╥﹏╥) feel free to c*h without}}}$ <br>
+      $\color{#9ce0ff}{\large{\texttt{✧ BYI ✧}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{i have social anxiety disorder (SAD), pls iwc if we}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{havent met before and avoid awkward conversations like}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{asking too much about me in a single go (╥﹏╥) c*h w/o}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{asking unless i say otherwise! i am mostly offtab}}}$<br> 
-      $\color{#def5ff}{\normalsize{\texttt{especially if im sitting still so do W2I at those times}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{pls dont rush me or anything like that (╥﹏╥) do interact}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{if we happen to share interests! i'd love to yap abt them}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{especially if im sitting still without saying anything,}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{pls dont rush me or anything like that (╥﹏╥) do int}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{if we happen to share interests!}}}$ <br>
     </td>
   </tr>
  </table>
-<table align="right">
+       <img src="tumblr_093e030215c15a229921c9f567cc86ce_6e7f64c6_400.webp" width="350" align="right"/>
+<table align="center">
   <tr>
     <td align="center">
       $\color{#def5ff}{\normalsize{\texttt{i don't accept sudden friend reqs if we havent interacted}}}$ <br>
