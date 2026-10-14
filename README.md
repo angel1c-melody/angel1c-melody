@@ -67,8 +67,8 @@
       $\color{#def5ff}{\normalsize{\texttt{do not copy please and ask to take inspo from skins/readme}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{(╥﹏╥) dont be shy to interact first please! i'd be more than}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{welcome to listening to u talk/talk with u (˶>⩊<˶) im}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{mainly interested in yttd and crk atm ⸜(｡˃ ⩊ ˂ )⸝♡}}}$<br> 
-      $\color{#def5ff}{\normalsize{\texttt{i love ransara (yttd) and i also like pmmm!! please}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{mainly interested in yttd, mlp, pmmm and crk atm ⸜(｡˃ ⩊ ˂ )⸝♡}}}$<br> 
+      $\color{#def5ff}{\normalsize{\texttt{i love ransara (yttd) and i also like sdvnlily!! please}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{respect my boundaries! i also do oshikatsu of smc}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{(˶˃𐃷˂˶) also, my readme may change over time!}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{again, please ask to take inspo from skins/readme!}}}$ <br>
