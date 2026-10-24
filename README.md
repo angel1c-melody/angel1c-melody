@@ -48,8 +48,7 @@
  <table align="center">
   <tr>
     <td align="center">
-      <img width="150" alt="image" src="https://github.com/user-attachments/assets/3d532b1c-7a53-49f5-942e-251c1083e8fd" /> <br>
-      $\color{#9ce0ff}{\large{\texttt{✧ BYI ✧}}}$ <br>
+      <img width="265" alt="image" src="https://github.com/user-attachments/assets/3d532b1c-7a53-49f5-942e-251c1083e8fd" /> <br>
       $\color{#def5ff}{\normalsize{\texttt{i have social anxiety disorder (SAD), pls iwc if we}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{havent met before and avoid awkward conversations like}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{asking too much about me in a single go (╥﹏╥) i am}}}$ <br>
