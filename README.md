@@ -1,3 +1,5 @@
+<!-- looking for the truth? how curious, hehe! >< -->
+<!-- ask for permission to take inspo/copy my readme please!! -->
 <img width="100%" alt="header" src="https://github.com/user-attachments/assets/ad1cb5dd-ed5d-4569-8f95-a8999ff8bf7e" />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=40&duration=1500&pause=800&color=C5F4FF&center=true&vCenter=true&repeat=false&width=520&height=110&lines=%F0%9F%8E%AD+Welcome%2C+folks%21;%F0%9F%8E%AD+Ready+for+some+giggles%3F" />
@@ -134,9 +136,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=40&duration=1&pause=999999&color=C5F4FF&center=true&vCenter=true&repeat=false&size=13&lines=click+the+pixels+for+linked+credits+on+stuff+used+here" />
 </div>
-<div align="center">
-<img width="500" alt="image" align="center" src ="https://github.com/user-attachments/assets/e4213bcd-cbe8-4386-b723-e5aec3447458" />
-
-$\color{#def5ff}{\normalsize{\texttt{ransara best yttd ship}}}$
-</div>
-
