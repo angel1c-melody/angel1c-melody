@@ -114,10 +114,15 @@
     <img src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" width="100%"/>
 </p>
         <p align="center">
-        <img width="150" alt="image" src="https://github.com/user-attachments/assets/913d8157-d00a-4d24-ba3d-c073f8c2d9ad" />
-        <img width="150" alt="image" src="https://github.com/user-attachments/assets/cce5fecb-0616-4a73-bdaf-14ea9535ac54" />
-        <img width="150" alt="image" src="blinkiesCafe-UD.gif" />
-        </p>
+        <img width="200" alt="image" src="https://github.com/user-attachments/assets/cce5fecb-0616-4a73-bdaf-14ea9535ac54" />
+        <img width="200" alt="image" src="blinkiesCafe-d8.gif" />
+        <img width="200" alt="image" src="https://github.com/user-attachments/assets/2840ac34-eed9-4e0c-8593-d494b658920f" />
+        <img width="200" alt="image" src="https://github.com/user-attachments/assets/88bf84ab-8c57-4485-af77-97c300bc4d6a" />
+        <img width="200" alt="image" src="https://github.com/user-attachments/assets/207f662b-b6d8-4d06-9ddc-1fbcb1cde123" />
+        <img width="200" alt="image" src="https://github.com/user-attachments/assets/b6474cf0-d266-462d-b5f3-5858e3ace891" />
+        <img width="200" alt="image" src="https://github.com/user-attachments/assets/556ecb4f-9eb4-40dc-8d13-0182aec68027" />
+        <img width="200" alt="image" src="tumblr_def55bf6dc624916ffdc2e4999c319bc_bd65f0c9_250.webp"/>
+          </p>
 <div align="center">
   <a href="https://rentry.co/border">
     <img src="atgvea.gif" alt="credit">
@@ -139,5 +144,5 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=40&duration=1&pause=999999&color=C5F4FF&center=true&vCenter=true&repeat=false&size=13&lines=click+the+pixels+for+linked+credits+on+stuff+used+here" />
+  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=40&duration=1&pause=999999&color=C5F4FF&center=true&vCenter=true&repeat=false&size=13&lines=click+the+pixels+for+linked+credits+on+some+stuff+used+here" />
 </div>
