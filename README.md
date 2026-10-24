@@ -116,7 +116,7 @@
         <p align="center">
         <img width="150" alt="image" src="https://github.com/user-attachments/assets/913d8157-d00a-4d24-ba3d-c073f8c2d9ad" />
         <img width="150" alt="image" src="https://github.com/user-attachments/assets/cce5fecb-0616-4a73-bdaf-14ea9535ac54" />
-        <img width="150%" alt="image" src="blinkiesCafe-UD.gif" />
+        <img width="150" alt="image" src="blinkiesCafe-UD.gif" />
         </p>
 <div align="center">
   <a href="https://rentry.co/border">
