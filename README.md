@@ -113,6 +113,11 @@
     <img src="https://github.com/user-attachments/assets/02139298-8d1f-4dc3-8e27-a97d20dbc59c" width="100%"/>
     <img src="https://github.com/user-attachments/assets/98134281-40b1-4e4b-9a79-029e13e780d1" width="100%"/>
 </p>
+        <p align="center">
+        <img width="150" alt="image" src="https://github.com/user-attachments/assets/913d8157-d00a-4d24-ba3d-c073f8c2d9ad" />
+        <img width="150" alt="image" src="https://github.com/user-attachments/assets/cce5fecb-0616-4a73-bdaf-14ea9535ac54" />
+        <img width="150%" alt="image" src="blinkiesCafe-UD.gif" />
+        </p>
 <div align="center">
   <a href="https://rentry.co/border">
     <img src="atgvea.gif" alt="credit">
