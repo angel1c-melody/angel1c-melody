@@ -122,6 +122,10 @@
         <img width="200" alt="image" src="https://github.com/user-attachments/assets/b6474cf0-d266-462d-b5f3-5858e3ace891" />
         <img width="200" alt="image" src="https://github.com/user-attachments/assets/556ecb4f-9eb4-40dc-8d13-0182aec68027" />
         <img width="200" alt="image" src="tumblr_def55bf6dc624916ffdc2e4999c319bc_bd65f0c9_250.webp"/>
+        <img width="200" alt="image" src="https://64.media.tumblr.com/67e556911bb218044c6ac908ca1e3815/abdb7da66b917d4f-af/s1280x1920/3bfed707067d7af694af632606df56395ebbaa1e.webp" />
+        <img width="200" alt="image" src="https://64.media.tumblr.com/35b77acdc89a8ed51ff986b98813b1f2/abdb7da66b917d4f-eb/s400x600/67a885551da8fc4dda78e77becbff3ac82bd703d.gifv" />
+        <img width="200" alt="image" src="https://64.media.tumblr.com/2c7791aa4f514c2d15d5948117ff2349/0808f77bca9de0ed-5a/s540x810/3e870de397a731080d2d7722f774acbda7ee8a47.gifv" />
+        <img width="200" alt="image" src="https://64.media.tumblr.com/a6a598d3fafb69b30c87e71e8d33fdf5/64453e3d828dcf02-24/s250x400/4fe0e7e15760eb5d37489d86f53ed38e4b9f8d94.gifv" />
           </p>
 <div align="center">
   <a href="https://rentry.co/border">
