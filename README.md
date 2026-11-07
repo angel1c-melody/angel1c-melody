@@ -92,7 +92,7 @@
       $\color{#9ce0ff}{\large{\texttt{✧ DNI ✧}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{racists, ableists, anti theists, femcels/incels, fem/tomboy fetishizers,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{misogynists AND misandrists, people with a WPD account,}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{people that have bandwagon effect, shamilk fan haters,}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{romantic blackapple/shadowapple, homophobes, transphobes,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{hazbin hotel/helluva boss fans (even if u "don't" support vivziepop),}}}$<br> 
       $\color{#def5ff}{\normalsize{\texttt{proshippers PLEASE block me (unless you need genuine advice/help)}}}$ <br>
     </td>
@@ -103,7 +103,7 @@
     <td align="center">
       $\color{#9ce0ff}{\large{\texttt{✧ IWC ✧}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{hetalia/countryhuman fans, cutegore people, people}}}$ <br>
-      $\color{#def5ff}{\normalsize{\texttt{with touch discomfort/trigger, people over 18,}}}$ <br>
+      $\color{#def5ff}{\normalsize{\texttt{with touch discomfort/trigger, people over 18, shamilk haters,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{dark romance/yandere haters/people that don't enjoy it in general,}}}$ <br>
       $\color{#def5ff}{\normalsize{\texttt{people with dark humour (you can joke with me but dont go too far.)}}}$ <br>
     </td>
